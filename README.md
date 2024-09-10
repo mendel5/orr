@@ -21,10 +21,34 @@ Der öffentlich-rechtliche Rundfunk in Deutschland besteht aus den folgenden Sen
 - (Deutsche Welle)
 
 ## Liste der Fernsehsender
+Bezogen auf die SD-Abschaltung
 ### ARD
-### ZDF
 
-## Links
+https://www.ard-digital.de/empfang/fernsehen-per-satellit
+
+### ZDF
+SD wird abgeschaltet am 18.11.2025:
+- ZDF
+- ZDFinfo
+- ZDFneo
+- 3sat
+- KiKA
+- https://www.zdf.de/zdfunternehmen/technik-sd-abschaltung-100.html
+
+### Andere 1
+SD bereits abgeschaltet am 15.11.2022:
+- ARTE
+- phoenix
+- ONE
+- tagesschau24
+- https://www.arte.tv/sites/corporate/de/faq/hd-fuer-alle/
+- https://www.technisat.com/de_DE/SD-Abschaltung-der-ARD-im-November/352-100173/
+
+## Links 1
 - https://de.wikipedia.org/wiki/%C3%96ffentlich-rechtlicher_Rundfunk
 - https://de.wikipedia.org/wiki/Liste_der_%C3%B6ffentlich-rechtlichen_Programme_in_Deutschland
+- https://de.wikipedia.org/wiki/ARD
+- https://de.wikipedia.org/wiki/Zweites_Deutsches_Fernsehen
+
+## Links 2
 - https://mediathekviewweb.de/
