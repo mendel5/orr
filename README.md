@@ -1,10 +1,10 @@
 # orr
-Informationen über den öffentlich-rechtlichen Rundfunk in Deutschland
+Informationen über den öffentlich-rechtlichen Rundfunk in Deutschland.
 
 Note: The content is focused on Germany.
 
 ## Übersicht
-Der öffentlich-rechtliche Rundfunk in Deutschland besteht aus den folgenden Sendern:
+Der öffentlich-rechtliche Rundfunk in Deutschland besteht aus den folgenden Einheiten:
 - ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland)
   - Das Erste (Gemeinschaftsprogramm der ARD)
   - BR: Bayerischer Rundfunk, München
@@ -22,10 +22,38 @@ Der öffentlich-rechtliche Rundfunk in Deutschland besteht aus den folgenden Sen
 
 ## Liste der Fernsehsender
 Bezogen auf die SD-Abschaltung
+
 ### ARD
-
+SD wird abgeschaltet am 07.01.2025:
+- Das Erste
+- BR Fernsehen Nord
+- BR Fernsehen Süd
+- hr-fernsehen
+- MDR Fernsehen Sachsen
+- MDR Fernsehen Sachsen-Anhalt
+- MDR Fernsehen Thüringen
+- NDR Fernsehen Hamburg
+- NDR Fernsehen Mecklenburg-Vorpommern
+- NDR Fernsehen Niedersachsen
+- NDR Fernsehen Schleswig-Holstein
+- Radio Bremen Fernsehen
+- rbb Fernsehen Berlin
+- rbb Fernsehen Brandenburg
+- SR Fernsehen
+- SWR Fernsehen Baden-Württemberg
+- SWR Fernsehen Rheinland-Pfalz
+- WDR Fernsehen Aachen
+- WDR Fernsehen Bielefeld
+- WDR Fernsehen Bonn
+- WDR Fernsehen Dortmund
+- WDR Fernsehen Duisburg
+- WDR Fernsehen Düsseldorf
+- WDR Fernsehen Essen
+- WDR Fernsehen Köln
+- WDR Fernsehen Münster
+- WDR Fernsehen Siegen
+- WDR Fernsehen Wuppertal
 - https://www.ard-digital.de/empfang/fernsehen-per-satellit
-
 
 ### ZDF
 SD wird abgeschaltet am 18.11.2025:
@@ -37,12 +65,12 @@ SD wird abgeschaltet am 18.11.2025:
 - https://www.zdf.de/zdfunternehmen/technik-sd-abschaltung-100.html
 
 ### Andere 1
-SD bereits am 14.12.2021 abgeschaltet:
+SD wurde bereits abgeschaltet am 14.12.2021:
 - ARD alpha
 - https://www.br.de/unternehmen/inhalt/technik/satellit-transponderwechsel-ard-100.html
 
 ### Andere 2
-SD bereits abgeschaltet am 15.11.2022:
+SD wurde bereits abgeschaltet am 15.11.2022:
 - ARTE
 - phoenix
 - ONE
