@@ -24,7 +24,8 @@ Der öffentlich-rechtliche Rundfunk in Deutschland besteht aus den folgenden Sen
 Bezogen auf die SD-Abschaltung
 ### ARD
 
-https://www.ard-digital.de/empfang/fernsehen-per-satellit
+- https://www.ard-digital.de/empfang/fernsehen-per-satellit
+- https://www.br.de/unternehmen/inhalt/technik/satellit-transponderwechsel-ard-100.html
 
 ### ZDF
 SD wird abgeschaltet am 18.11.2025:
