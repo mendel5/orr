@@ -25,7 +25,7 @@ Bezogen auf die SD-Abschaltung
 ### ARD
 
 - https://www.ard-digital.de/empfang/fernsehen-per-satellit
-- https://www.br.de/unternehmen/inhalt/technik/satellit-transponderwechsel-ard-100.html
+
 
 ### ZDF
 SD wird abgeschaltet am 18.11.2025:
@@ -37,6 +37,11 @@ SD wird abgeschaltet am 18.11.2025:
 - https://www.zdf.de/zdfunternehmen/technik-sd-abschaltung-100.html
 
 ### Andere 1
+SD bereits am 14.12.2021 abgeschaltet:
+- ARD alpha
+- https://www.br.de/unternehmen/inhalt/technik/satellit-transponderwechsel-ard-100.html
+
+### Andere 2
 SD bereits abgeschaltet am 15.11.2022:
 - ARTE
 - phoenix
