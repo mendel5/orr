@@ -20,11 +20,11 @@ Der öffentlich-rechtliche Rundfunk in Deutschland besteht aus den folgenden Sen
 - Deutschlandradio
 - (Deutsche Welle)
 
+## Liste der Fernsehsender
+### ARD
+### ZDF
+
 ## Links
 - https://de.wikipedia.org/wiki/%C3%96ffentlich-rechtlicher_Rundfunk
 - https://de.wikipedia.org/wiki/Liste_der_%C3%B6ffentlich-rechtlichen_Programme_in_Deutschland
 - https://mediathekviewweb.de/
-
-## Liste der Fernsehsender
-### ARD
-### ZDF
