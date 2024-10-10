@@ -83,7 +83,8 @@ SD wurde bereits abgeschaltet am 15.11.2022:
 - https://de.wikipedia.org/wiki/Liste_der_%C3%B6ffentlich-rechtlichen_Programme_in_Deutschland
 - https://de.wikipedia.org/wiki/ARD
 - https://de.wikipedia.org/wiki/Zweites_Deutsches_Fernsehen
-- https://helpdesk.vodafonekabelforum.de/wiki/SD-Abschaltung_von_Das_Erste_und_den_Dritten_Programmen
 
 ## Links 2
 - https://mediathekviewweb.de/
+- https://satellitenempfang.info/sd-abschaltung.html
+- https://helpdesk.vodafonekabelforum.de/wiki/SD-Abschaltung_von_Das_Erste_und_den_Dritten_Programmen
